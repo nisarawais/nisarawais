@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Awais and it is pronounced "uh-Vas". I am a senior student majoring in Computer Science at Lakehead University. 
+- 👋 Hi, I’m Awais and it is pronounced "uh-Vas". I recently graduated with my Honors Bachelor of Science in Computer Science from Lakehead University. 
 - 📫 Please feel free to shoot me an email. It is aanisar369@gmail.com
 
 <!---
